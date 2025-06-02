@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "vpn.zet.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "zet.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = "vPOH8Sk7lWNYR0wf1OB_OapGlT9W5K2lmI7gZqFL"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "faisaleditzz@gmail.com"; // Ganti dengan email yang kalian gunakan
