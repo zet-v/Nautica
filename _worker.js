@@ -5,7 +5,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "zet.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
-const apiKey = "vPOH8Sk7lWNYR0wf1OB_OapGlT9W5K2lmI7gZqFL"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "qwBLdgmhV0Uipgv3DrVD9Ja9o1J_5VFWP__20Zg2"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "faisaleditzz@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "81b065adffb74f6ff6dfcfd8a60bc137"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "ab745dd890df7dd8972f5726c7796355"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
