@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat_v2"]
 pattern = "vpn.zet.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.udemy.com.vpn.zet.my.id"
+pattern = "investors.spotify.com.vpn.zet.my.id"
 custom_domain = true
 
 [unsafe.metadata.observability]
