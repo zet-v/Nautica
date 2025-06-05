@@ -10,7 +10,7 @@ custom_domain = true
 pattern = "investors.spotify.com.vpn.zet.my.id"
 custom_domain = true
 [[routes]]
-pattern = "edu.ruangguru.com.vpn.zet.my.id"
+pattern = "104.17.73.206.vpn.zet.my.id"
 custom_domain = true
 [[routes]]
 pattern = "support.udemy.com.vpn.zet.my.id"
